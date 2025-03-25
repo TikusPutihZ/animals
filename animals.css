@@ -1,0 +1,77 @@
+.header-text {
+    text-align: center;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 75px;
+  }
+  .simple-text {
+    text-align: center;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 20px;
+    margin-top: -65px;
+  }
+  
+  .emoji-border {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  .square {
+    display: flex;
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    border-radius: 20px;
+    overflow: hidden;
+  }
+  .square a {
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+  .deer {
+    width: 90%;
+    height: 90%;
+    object-fit: cover;
+    margin-top: 5%;
+    margin-left: 5%;
+    border-radius: 15px;
+  }
+  
+  .bear {
+    width: 90%;
+    height: 90%;
+    object-fit: cover;
+    margin-top: 5%;
+    margin-left: 5%;
+    border-radius: 15px;
+  }
+  
+  .wolf {
+    width: 90%;
+    height: 90%;
+    object-fit: cover;
+    margin-top: 5%;
+    margin-left: 5%;
+    border-radius: 15px;
+  }
+  
+  .fox {
+    width: 90%;
+    height: 90%;
+    object-fit: cover;
+    margin-top: 5%;
+    margin-left: 5%;
+    border-radius: 15px;
+  }
+  
+  .squirrel {
+    width: 90%;
+    height: 90%;
+    object-fit: cover;
+    margin-top: 5%;
+    margin-left: 5%;
+    border-radius: 15px;
+  }
+  
